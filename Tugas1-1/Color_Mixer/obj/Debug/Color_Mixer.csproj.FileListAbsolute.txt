@@ -1,0 +1,10 @@
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\bin\Debug\Color_Mixer.exe.config
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\bin\Debug\Color_Mixer.exe
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\bin\Debug\Color_Mixer.pdb
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\obj\Debug\Color_Mixer.csprojAssemblyReference.cache
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\obj\Debug\Color_Mixer.Form1.resources
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\obj\Debug\Color_Mixer.Properties.Resources.resources
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\obj\Debug\Color_Mixer.csproj.GenerateResource.cache
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\obj\Debug\Color_Mixer.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\obj\Debug\Color_Mixer.exe
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\Color_Mixer\obj\Debug\Color_Mixer.pdb

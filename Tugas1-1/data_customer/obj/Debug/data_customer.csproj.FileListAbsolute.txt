@@ -1,0 +1,10 @@
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\bin\Debug\data_customer.exe.config
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\bin\Debug\data_customer.exe
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\bin\Debug\data_customer.pdb
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\obj\Debug\data_customer.Form1.resources
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\obj\Debug\data_customer.Properties.Resources.resources
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\obj\Debug\data_customer.csproj.GenerateResource.cache
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\obj\Debug\data_customer.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\obj\Debug\data_customer.exe
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\obj\Debug\data_customer.pdb
+C:\Users\HP PAVILION GAMING\source\repos\Tugas1\data_customer\obj\Debug\data_customer.csprojAssemblyReference.cache
