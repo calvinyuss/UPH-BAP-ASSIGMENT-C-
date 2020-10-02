@@ -48,13 +48,13 @@
             this.alamatTextBox = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.lblTableRecordCount = new System.Windows.Forms.Label();
-            this.tglGabung = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.telp = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.kota = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.alamat = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nama = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.kode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nama = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.alamat = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.kota = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.telp = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tglGabung = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.lblTableRecordCount = new System.Windows.Forms.Label();
             this.customerGroupBox.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
@@ -340,46 +340,13 @@
             this.dataGridView1.TabIndex = 1;
             this.dataGridView1.RowsAdded += new System.Windows.Forms.DataGridViewRowsAddedEventHandler(this.dataGridView1_RowsAdded);
             // 
-            // lblTableRecordCount
+            // kode
             // 
-            this.lblTableRecordCount.AutoSize = true;
-            this.lblTableRecordCount.Dock = System.Windows.Forms.DockStyle.Top;
-            this.lblTableRecordCount.Location = new System.Drawing.Point(0, 0);
-            this.lblTableRecordCount.Name = "lblTableRecordCount";
-            this.lblTableRecordCount.Size = new System.Drawing.Size(66, 17);
-            this.lblTableRecordCount.TabIndex = 0;
-            this.lblTableRecordCount.Text = "0 Record";
-            // 
-            // tglGabung
-            // 
-            this.tglGabung.HeaderText = "Bergabung Sejak";
-            this.tglGabung.MinimumWidth = 6;
-            this.tglGabung.Name = "tglGabung";
-            this.tglGabung.ReadOnly = true;
-            this.tglGabung.Width = 125;
-            // 
-            // telp
-            // 
-            this.telp.HeaderText = "No. Telp";
-            this.telp.MinimumWidth = 6;
-            this.telp.Name = "telp";
-            this.telp.ReadOnly = true;
-            this.telp.Width = 200;
-            // 
-            // kota
-            // 
-            this.kota.HeaderText = "Kota";
-            this.kota.MinimumWidth = 6;
-            this.kota.Name = "kota";
-            this.kota.Width = 200;
-            // 
-            // alamat
-            // 
-            this.alamat.HeaderText = "Alamat";
-            this.alamat.MinimumWidth = 6;
-            this.alamat.Name = "alamat";
-            this.alamat.ReadOnly = true;
-            this.alamat.Width = 250;
+            this.kode.HeaderText = "Kode";
+            this.kode.MinimumWidth = 6;
+            this.kode.Name = "kode";
+            this.kode.ReadOnly = true;
+            this.kode.Width = 125;
             // 
             // nama
             // 
@@ -389,13 +356,47 @@
             this.nama.ReadOnly = true;
             this.nama.Width = 200;
             // 
-            // kode
+            // alamat
             // 
-            this.kode.HeaderText = "Kode";
-            this.kode.MinimumWidth = 6;
-            this.kode.Name = "kode";
-            this.kode.ReadOnly = true;
-            this.kode.Width = 125;
+            this.alamat.HeaderText = "Alamat";
+            this.alamat.MinimumWidth = 6;
+            this.alamat.Name = "alamat";
+            this.alamat.ReadOnly = true;
+            this.alamat.Width = 250;
+            // 
+            // kota
+            // 
+            this.kota.HeaderText = "Kota";
+            this.kota.MinimumWidth = 6;
+            this.kota.Name = "kota";
+            this.kota.ReadOnly = true;
+            this.kota.Width = 200;
+            // 
+            // telp
+            // 
+            this.telp.HeaderText = "No. Telp";
+            this.telp.MinimumWidth = 6;
+            this.telp.Name = "telp";
+            this.telp.ReadOnly = true;
+            this.telp.Width = 200;
+            // 
+            // tglGabung
+            // 
+            this.tglGabung.HeaderText = "Bergabung Sejak";
+            this.tglGabung.MinimumWidth = 6;
+            this.tglGabung.Name = "tglGabung";
+            this.tglGabung.ReadOnly = true;
+            this.tglGabung.Width = 125;
+            // 
+            // lblTableRecordCount
+            // 
+            this.lblTableRecordCount.AutoSize = true;
+            this.lblTableRecordCount.Dock = System.Windows.Forms.DockStyle.Top;
+            this.lblTableRecordCount.Location = new System.Drawing.Point(0, 0);
+            this.lblTableRecordCount.Name = "lblTableRecordCount";
+            this.lblTableRecordCount.Size = new System.Drawing.Size(66, 17);
+            this.lblTableRecordCount.TabIndex = 0;
+            this.lblTableRecordCount.Text = "0 Record";
             // 
             // Form1
             // 

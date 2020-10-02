@@ -201,7 +201,7 @@ namespace DataCustomer
 
         private void dataGridView1_RowsAdded(object sender, DataGridViewRowsAddedEventArgs e)
         {
-            int record = dataGridView1.Rows.Count - 1;
+            int record = dataGridView1.Rows.Count;
             lblTableRecordCount.Text = record + " Record";
         }
     }
