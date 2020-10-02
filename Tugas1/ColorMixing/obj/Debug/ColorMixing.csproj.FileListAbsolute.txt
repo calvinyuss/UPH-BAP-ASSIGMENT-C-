@@ -1,0 +1,10 @@
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\bin\Debug\ColorMixing.exe.config
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\bin\Debug\ColorMixing.exe
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\bin\Debug\ColorMixing.pdb
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\obj\Debug\ColorMixing.csprojAssemblyReference.cache
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\obj\Debug\ColorMixing.Properties.Resources.resources
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\obj\Debug\ColorMixing.csproj.GenerateResource.cache
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\obj\Debug\ColorMixing.csproj.CoreCompileInputs.cache
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\obj\Debug\ColorMixing.exe
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\obj\Debug\ColorMixing.pdb
+D:\UPH\Term 7\BAP\Tugas\Tugas1\ColorMixing\obj\Debug\ColorMixing.Window.resources

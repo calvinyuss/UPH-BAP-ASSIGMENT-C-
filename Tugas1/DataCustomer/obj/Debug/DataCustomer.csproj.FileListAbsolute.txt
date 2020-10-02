@@ -1,0 +1,10 @@
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\bin\Debug\DataCustomer.exe.config
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\bin\Debug\DataCustomer.exe
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\bin\Debug\DataCustomer.pdb
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\obj\Debug\DataCustomer.csprojAssemblyReference.cache
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\obj\Debug\DataCustomer.Form1.resources
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\obj\Debug\DataCustomer.Properties.Resources.resources
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\obj\Debug\DataCustomer.csproj.GenerateResource.cache
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\obj\Debug\DataCustomer.csproj.CoreCompileInputs.cache
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\obj\Debug\DataCustomer.exe
+D:\UPH\Term 7\BAP\Tugas\Tugas1\DataCustomer\obj\Debug\DataCustomer.pdb
